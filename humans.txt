@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    TJ Bergschneider	tjbergschneider@gmail.com	@tjskzx
 
 # THANKS
 
